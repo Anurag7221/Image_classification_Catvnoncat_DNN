@@ -9,16 +9,18 @@ For Running this model just download whole FOLDER as There are some PATH SPECIFI
 and then RUN "main.py" file!
 
 I have used Pycharm IDE [https://www.jetbrains.com/pycharm/] for coding!
-you can use Anaconda's Jupyter Notebook or GOOGLE COLAB [https://colab.research.google.com/] (Preferable for image showing)
+
+You can use Anaconda's Jupyter Notebook or GOOGLE COLAB [https://colab.research.google.com/] (Preferable for image showing)
+
 If you want to check this model predictions  by using Your Own IMAGE then just change the name of image in the code and Put the IMAGE in IMAGES Directory!("For Performing This Action Use Jupyter Notebook or Google COLAB [https://colab.research.google.com/] and '%matplotlib inline' feature, as this can be easy and more reliable for viewing image")
 
 
 Their are some mislabeled images also but they are just because of :
-> Cat body in an unusual position
-> Cat appears against a background of a similar color
-> Unusual cat color and species
-> Camera Angle
-> Brightness of the picture
-> Scale variation (cat is very large or small in image)
+> Cat body in an unusual position.
+> Cat appears against a background of a similar color.
+> Unusual cat color and species.
+> Camera Angle.
+> Brightness of the picture.
+> Scale variation (cat is very large or small in image).
 
 #Njoy!!
