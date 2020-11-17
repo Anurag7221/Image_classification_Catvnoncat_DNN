@@ -3,11 +3,18 @@ Hey! there, this is a L layer Deep_Neural_Network image Classification project!
 In this project I have made a an L layer neural network using python.
 
 I have used different python libraries like numpy,matplotlib,scipy,h5py,time and PIL.
+
 Numpy [https://www.geeksforgeeks.org/python-numpy/],
+
 Matplotlib [https://www.geeksforgeeks.org/python-introduction-matplotlib/],
+
 Scipy [https://www.geeksforgeeks.org/data-analysis-with-scipy/],
+
 h5py [https://www.geeksforgeeks.org/hdf5-files-in-python/],
+
 PIL [https://www.geeksforgeeks.org/python-pillow-a-fork-of-pil/].
+
+
 
 I have used UTF-8 encoded h5py file for datasets to use for training of Machine_Learning Model!
 
