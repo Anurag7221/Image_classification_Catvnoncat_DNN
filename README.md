@@ -29,7 +29,7 @@ If you want to check this model predictions  by using Your Own IMAGE then just c
 
 
 Their are some mislabeled images also but they are just because of :
-> Cat body in an unusual position.
+ Cat body in an unusual position.
 > Cat appears against a background of a similar color.
 > Unusual cat color and species.
 > Camera Angle.
